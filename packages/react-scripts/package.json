@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
-  "version": "1.1.4",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "name": "vvents-react-scripts",
+  "version": "0.0.1",
+  "description": "Custom configuration and scripts for Create React App.",
+  "repository": "ashu17706/custom-react-script",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/ashu17706/custom-react-script/issues"
   },
   "files": [
     "bin",
